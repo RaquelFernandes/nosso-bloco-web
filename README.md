@@ -1,2 +1,2 @@
-# reserva-de-chales
-projeto de exemplo simulando um sistema de reserva de chalés
+# nosso-bloco-web
+projeto de exemplo simulando um sistema de acompanhamento de vendas
